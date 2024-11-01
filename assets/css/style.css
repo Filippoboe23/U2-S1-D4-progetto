@@ -296,6 +296,7 @@ h3 {
 }
 
 .trending-item {
+  font-weight: bold;
   vertical-align: middle;
   font-size: 16px;
 }
